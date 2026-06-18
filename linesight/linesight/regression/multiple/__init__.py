@@ -1,0 +1,1 @@
+from linesight.regression.multiple.core import MultipleLinearRegression
